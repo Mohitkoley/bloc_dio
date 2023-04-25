@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:bloc_dio/data/model/post_model.dart';
 import 'package:bloc_dio/data/repositories/api/api.dart';
 import 'package:dio/dio.dart';
